@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26a927ea-8279-4cfd-9603-5cd09d9fbbbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/application/UpdateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/RemoveDate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UpdateData">
+  <component name="RunManager" selected="Application.RemoveDate">
     <configuration name="InsertData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.InsertData" />
       <module name="introducao_jdbc" />
@@ -70,6 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.RemoveDate" />
+      <module name="introducao_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UpdateData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.UpdateData" />
       <module name="introducao_jdbc" />
@@ -85,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDate" />
         <item itemvalue="Application.UpdateData" />
         <item itemvalue="Application.InsertData" />
         <item itemvalue="Application.RecoverData" />
